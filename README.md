@@ -17,20 +17,20 @@ Filtro Blur:
 
 Efeito Binarização:
 
-![Imagem Binarizada](imagens_janelas/imagem_bin.png)
+![Imagem Binarizada](imagens_janelas/imagem_binarizada.png)
 
 Idenficação de bordas:
 
-![Imagem Bordas](imagens_janelas/imagem_borda.png)
+![Imagem Bordas](imagens_janelas/imagem_bordas.png)
 
 Resultado
 
-![Quantidade de objetos identificado](imagens_janelas/img_final.png)
+![Quantidade de objetos identificado](imagens_janelas/imagem_resultado.png)
 
 
 ## 2 Questão
 
-Local: Ambientes de avaliações (Escolas e ou instituições)
+Local: Ambientes de avaliações por gabarito (Escolas e ou instituições)
 
 A utiliização da visão computacional pode melhorar no processo de avaliãções e simulados escolares para economizar em tempo na execução do processo de correção, que quando realizado de forma manual tende a ser demorado, e na validação das respostas, em questões de que a correção de  provas, simulados e seletivos tendem a muitos erros humanos. A visão computacional poderia ajudar na automação deste processo de correção de provas que possuem padrrões de gabaritos.
 
